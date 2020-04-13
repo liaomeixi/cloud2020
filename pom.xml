@@ -9,6 +9,8 @@
 
     <modules>
         <module>cloud-provider-payment8001</module>
+        <module>cloud-consumerconsul-order80</module>
+        <module>cloud-api-commons</module>
     </modules>
 
     <!--统一管理-->
